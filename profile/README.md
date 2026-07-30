@@ -6,7 +6,7 @@ Welcome to **MediaTrex** – a collaborative organization dedicated to creating 
 
 ---
 
-## 🎯 About Us
+## About Us
 
 MediaTrex is an open-source organization committed to:
 - **Creating innovative solutions** that solve real-world problems
@@ -16,7 +16,7 @@ MediaTrex is an open-source organization committed to:
 
 ---
 
-## 👥 Our Team
+## Our Team
 
 We''re a diverse team of specialists working together to deliver cutting-edge solutions:
 
@@ -29,21 +29,21 @@ We''re a diverse team of specialists working together to deliver cutting-edge so
 
 ---
 
-## 🚀 What We Do
+## What We Do
 
 ### Open Source Projects
 We develop and maintain open-source projects that address critical challenges in:
-- 🌐 Web technologies and frameworks
-- 🤖 Artificial intelligence and machine learning
-- ☁️ Cloud infrastructure and DevOps automation
-- 📊 Data processing and analytics
+-  Web technologies and frameworks
+-  Artificial intelligence and machine learning
+-  Cloud infrastructure and DevOps automation
+-  Data processing and analytics
 
 ### Active Contributions
 Our team actively contributes to established open-source projects, helping to improve tools and libraries used by millions of developers worldwide.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Our projects typically leverage:
 
@@ -54,7 +54,7 @@ Our projects typically leverage:
 
 ---
 
-## 📚 Key Areas of Focus
+## Key Areas of Focus
 
 - **Web Applications**: Full-stack web development with modern frameworks
 - **Cloud Solutions**: Scalable, containerized, and serverless architectures
@@ -64,13 +64,13 @@ Our projects typically leverage:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from developers of all skill levels! Whether you''re interested in:
-- 💻 **Code contributions**: Bug fixes, features, or new projects
-- 📖 **Documentation**: Improving guides, examples, and tutorials
-- 🐛 **Issue reporting**: Helping us identify and address problems
-- 💡 **Ideas**: Suggesting new features or improvements
+- **Code contributions**: Bug fixes, features, or new projects
+- **Documentation**: Improving guides, examples, and tutorials
+- **Issue reporting**: Helping us identify and address problems
+- **Ideas**: Suggesting new features or improvements
 
 ### How to Get Started
 
@@ -84,14 +84,14 @@ For detailed contribution guidelines, see `CONTRIBUTING.md` in each repository.
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 Explore our repositories to discover what we''re working on:
 - [Browse all projects](https://github.com/MediaTrex)
 
 ---
 
-## 📞 Get in Touch
+## Get in Touch
 
 - **GitHub**: [@MediaTrex](https://github.com/MediaTrex)
 - **Issues**: Found a bug? [Report it here](https://github.com/MediaTrex)
@@ -99,13 +99,13 @@ Explore our repositories to discover what we''re working on:
 
 ---
 
-## 📄 License
+## License
 
 Our projects are released under various open-source licenses. Please check individual repositories for specific license information.
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 We''re grateful to:
 - All contributors and community members
@@ -114,10 +114,10 @@ We''re grateful to:
 
 ---
 
-## 💬 Community Guidelines
+## Community Guidelines
 
 We''re committed to maintaining an inclusive and welcoming community. All participants must adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
 
-**Happy coding! Let''s build something innovative together.** 🚀
+**Happy coding! Let''s build something innovative together.** 
